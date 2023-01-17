@@ -1,3 +1,3 @@
 # slacknotifs
 
-Test! Test twice!
+Test! Test twice! Thrice!
